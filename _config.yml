@@ -1,6 +1,10 @@
 title: My Blog
 description: GitHub Pages + Jekyll 블로그
 remote_theme: "mmistakes/minimal-mistakes@4.2.0"
+
+# _config.yml
+locale: ko-KR
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
