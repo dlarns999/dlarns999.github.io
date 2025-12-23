@@ -1,4 +1,4 @@
-title: My Blog
+title: dlarns999
 description: GitHub Pages + Jekyll 블로그
 locale: ko-KR
 
@@ -9,3 +9,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-remote-theme
+
+# 홈 페이지 섹션 한글화
+home:
+  recent_posts:
+    title: "최근 글"
