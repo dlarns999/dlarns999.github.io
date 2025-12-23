@@ -1,0 +1,8 @@
+title: My Blog
+url: "https://dlarns999.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-remote-theme
