@@ -1,10 +1,13 @@
-title: dlarns999
-description: GitHub Pages + Jekyll 블로그
-locale: ko-KR
-
-remote_theme: johno/pixyll
+title: "DR 블로그"
+description: "GitHub Pages + Chirpy"
+remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# 한글 Recent 글 제목 지정
+home:
+  recent_posts:
+    title: "최근 글"
