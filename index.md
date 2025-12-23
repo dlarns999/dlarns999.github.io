@@ -10,5 +10,5 @@ title: ""
 최근 글:
 
 {% for post in site.posts limit:5 %}
-- [{{ post.title }}]({{ post.url }})
+- [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
