@@ -2,7 +2,7 @@ title: dlarns999
 description: GitHub Pages + Jekyll 블로그
 locale: ko-KR
 
-remote_theme: johno/pixyll
+remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-remote-theme
 
