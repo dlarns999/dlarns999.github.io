@@ -5,7 +5,7 @@ title: "홈페이지"
 
 # 안녕하세요!
 
-여기는 **Jekyll + Minimal Mistakes 테마** 블로그입니다.
+여기는 **Chirpy 테마 GitHub Pages 블로그**입니다.
 
 ## 최근 글
 
