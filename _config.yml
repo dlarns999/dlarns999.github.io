@@ -2,12 +2,8 @@ title: dlarns999
 description: GitHub Pages + Jekyll 블로그
 locale: ko-KR
 
-remote_theme: "mmistakes/minimal-mistakes@4.2.0"
-
+remote_theme: pages-themes/modernist@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-remote-theme
 
 # 홈 페이지 섹션 한글화
