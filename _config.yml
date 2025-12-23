@@ -1,13 +1,13 @@
-title: "DR 블로그"
-description: "GitHub Pages + Chirpy"
-remote_theme: cotes2020/jekyll-theme-chirpy
+title: "나의 Pixyll 블로그"
+description: "GitHub Pages + Pixyll"
+remote_theme: johno/pixyll
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# 한글 Recent 글 제목 지정
+# 한글 Recent 글 제목
 home:
   recent_posts:
     title: "최근 글"
